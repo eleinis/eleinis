@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eleinis
-- 👀 I’m interested in how plants respond to changes in climate
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on programming projects
+- 🌱 I’m interested in learning how plants respond to changes in climate
+- 💞️ I’m going to start uploading R codes used in my recent publications.
 - 📫 How to reach me: email me at eleinis.avila@gmail.com
 
 <!---
